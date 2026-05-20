@@ -10,6 +10,13 @@
       "localizedDescription": "Reserva y gestiona viajes desde tu móvil con ViajeroClub.",
       "versions": [
         {
+          "version": "1.2.2",
+          "buildVersion": "10",
+          "date": "2026-05-20",
+          "downloadURL": "https://github.com/CesarGarza55/viajeroclub-releases/releases/download/v10/ViajeroClub.apk",
+          "size": 94844772
+        },
+        {
           "version": "1.2.1",
           "buildVersion": "9",
           "date": "2026-05-20",
